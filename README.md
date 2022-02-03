@@ -8,7 +8,9 @@
 * Hence, it'll be good to have a tool that can help monitor this.
 
 ## Ideal functionality
-* Get statistics on repos via command line. Something like: `make <repo-name(s)>`
+* Get statistics on repos Something like: `make <repo-name(s)>`
+  * Get repo:contributor statstics
+  * Get contributor:system statistics   
 * I'm assuming some of the repos are private, hence, we might want to dump statistics in an `/output` folder and not commit stuff that's private.
 * Should be easily extended to add new reports/metrics/outputs
 
