@@ -19,7 +19,9 @@
 
 
 
-Logo: 
+Logo options (we should pick one): 
 
-![keymaker-image](https://user-images.githubusercontent.com/1289023/152268269-f1c7cb3c-a2dc-4c78-9458-64d68d17d7f3.png)
+![keymaker-image-1](https://user-images.githubusercontent.com/1289023/152268269-f1c7cb3c-a2dc-4c78-9458-64d68d17d7f3.png)
 
+
+![keymaker-image-2](https://user-images.githubusercontent.com/1289023/152269293-8824cc23-daf0-4857-ae0c-157b3a6dc532.png)
