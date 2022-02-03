@@ -4,7 +4,7 @@
 ## Goal 
 * There are some really great code ecosystems that are being built.
 * There are a few {engineers, patterns, systems} that are critical to these ecosystems.
-* There is too volume to keep a track of.
+* There is too much volume to keep a track of.
 * Hence, it'll be good to have a tool that can help monitor this.
 
 ## Ideal functionality
