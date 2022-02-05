@@ -11,10 +11,8 @@ environment:
 .PHONY: keymaker
 keymaker:
 ifdef watchlist
-	echo "watchlist defined" ${watchlist}
 	python keymaker/worker.py --watchlist=${watchlist}
 else
-	echo "No watchlist defined"
 	python keymaker/worker.py
 endif
 
