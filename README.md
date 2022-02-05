@@ -19,6 +19,9 @@
 * I'm assuming some of the repos are private, hence, we might want to dump statistics in an `/output` folder and not commit stuff that's private.
 * Should be easily extended to add new reports/metrics/outputs
 
+## Setup
+1. If this is your first time cloning the repo, run `make environment` which will set up the python virtual environment and install all python packages in requirements.txt
+2. Run `source .venv/bin/activate` in order to set up the python virtual environment
 
 
 ## Some usefull links
