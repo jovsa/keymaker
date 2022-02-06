@@ -24,7 +24,7 @@
 2. Run `source .venv/bin/activate` in order to set up the python virtual environment
 
 
-## Some usefull links
+## Some useful links
 
 * [Sourcegraph](https://about.sourcegraph.com/): A code search tool. Mainly centered around finding code not so much so the commiters.
 * [pydriller](https://pydriller.readthedocs.io/en/latest/intro.html): A good python library that we can build on/extend.
