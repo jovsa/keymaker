@@ -18,6 +18,3 @@ class ReportGenerator:
 
     def generate_report(self):
       pass
-
-
-
