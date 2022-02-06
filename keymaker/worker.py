@@ -2,7 +2,7 @@ import argparse
 
 parser = argparse.ArgumentParser(
     description='Worker file for repo statistics.')
-parser.add_argument('-a', '--watchlist', type=str, default='watchlist.txt', required=False,
+parser.add_argument('-w', '--watchlist', type=str, default='watchlist.txt', required=False,
                     help='Watchlist input file that lists all the repos that would compute various statistics for. [REQUIRED]')
 
 if __name__ == '__main__':
